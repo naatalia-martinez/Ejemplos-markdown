@@ -1,2 +1,7 @@
-# Ejemplos-markdown
-Ejemplos de Markdown
+# Encabezado 1 
+## Encabezado 2 
+
+...
+###### encabezado
+
+
