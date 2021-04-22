@@ -4,7 +4,7 @@
 ...
 ###### encabezado nivel 6
 
-*texto en italica*
+*texto en italica*  
 
 _otro texto en italica_
 
